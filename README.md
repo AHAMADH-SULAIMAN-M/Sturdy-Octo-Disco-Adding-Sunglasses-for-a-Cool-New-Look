@@ -91,5 +91,11 @@ plt.axis("off")
 plt.show()
 
 ```
+<img width="514" height="593" alt="image" src="https://github.com/user-attachments/assets/09b3d6b8-6cae-4467-9037-a488d45f45a6" />
 
+<img width="889" height="346" alt="image" src="https://github.com/user-attachments/assets/a03ebb79-854f-4b68-a8a5-1cf9f8db58c6" />
+
+<img width="999" height="361" alt="image" src="https://github.com/user-attachments/assets/c39eb057-3075-4531-89b2-f5f6fd6d94c4" />
+
+<img width="688" height="827" alt="image" src="https://github.com/user-attachments/assets/a4b742d0-a421-4f23-a9c9-944773534369" />
 
